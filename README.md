@@ -10,10 +10,10 @@ This application will be used by entering pre-difine commands that tell the are 
 
 ## Example of usage
 The example below shows how the applciation behaves when the help pre-defined command is used on it
-```./console.py<br>
-(hbh)help<br>
-Documented commands (type help <topic>):<br>
-========================================<br>
-EOF  help  quit<br>
+```./console.py
+(hbh)help
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
 ```
 
