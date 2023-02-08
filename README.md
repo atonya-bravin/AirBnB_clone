@@ -2,7 +2,7 @@
 This is a clone of the AirBnB application that is used by individuals to book for places to stay
 
 ## Prompt command
-This console application will be run using the following command
+This console application will be run using the following command<br>
 **./console.py**
 
 ## Usage
