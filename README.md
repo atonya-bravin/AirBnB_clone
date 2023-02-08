@@ -8,7 +8,7 @@ This console application will be run using the following command<br>
 ## Usage
 This application will be used by entering pre-difine commands that tell the are used as a way of user interations with the application
 
-## Example of usage
+### Example of usage
 The example below shows how the applciation behaves when the help pre-defined command is used on it
 ```
 ./console.py
