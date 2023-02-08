@@ -4,6 +4,7 @@ This is a clone of the AirBnB application that is used by individuals to book fo
 ## Prompt command
 This console application will be run using the following command<br>
 ```./console.py```
+***
 
 ## Usage
 This application will be used by entering pre-difine commands that tell the are used as a way of user interations with the application
