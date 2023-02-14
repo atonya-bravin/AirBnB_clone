@@ -19,6 +19,7 @@ class BaseModel():
 
     def to_dict(self):
         time_dict = self.__dict__.copy()
+        time_dict["__class__"] = self.__class__.__name__
         if "created_at" in time_dict:
             time_dict["created_at"] = time_dict["created_at"].strftime(time_format)
         if "updated_at" in time_dict:
