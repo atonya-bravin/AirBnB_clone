@@ -1,15 +1,5 @@
 header{
-	background-color: #Ffffff;
+	background-color: #FF0000;
 	height: 70px;
 	width: 100%;
-	border: 1px solid #CCCCCC;
-	position: relative;
-	justify-items: center;
-}
-#logo{
-	width:142px;
-	height:60px;
-	background-image: url("../images/logo.png");
-	position: absolute;
-	left: 20px;
 }
