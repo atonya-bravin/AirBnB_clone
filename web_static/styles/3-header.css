@@ -1,15 +1,9 @@
-header{
-	background-color: #Ffffff;
-	height: 70px;
-	width: 100%;
-	border: 1px solid #CCCCCC;
-	position: relative;
-	justify-items: center;
-}
-#logo{
-	width:142px;
-	height:60px;
-	background-image: url("../images/logo.png");
-	position: absolute;
-	left: 20px;
+header {
+    height: 70px; 
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    background: white url(../images/logo.png);
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    flex-shrink: 0;
 }
